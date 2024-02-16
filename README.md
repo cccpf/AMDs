@@ -8,7 +8,7 @@ AMDs是基于智能体框架的中文医疗问答系统，通过结合不同的�
 
 ## 效果演示
 <video controls> 
-  <source src="assets/demo.mp4" type="video/mp4"> 
+  <source src="https://github.com/cccpf/AMDs/assets/46877660/9da577b4-bc92-4e75-af12-3be6bb647acd" type="video/mp4"> 
 </video> 
 
 ## 部署方式 
