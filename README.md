@@ -4,7 +4,7 @@ AMDs是基于智能体框架的中文医疗问答系统，通过结合不同的�
 ## 介绍
 与现有的其他对话系统相比,AMDs使用基于Agent框架的改进架构使其更易于扩展并能更好的结合知识图谱等进而处理复杂的多轮医疗对话任务，此外多种知识的结合使用能更好的提升模型生成过程的可解释性以及最终结果的准确性。
 
-您可以通过[huggingface](https://huggingface.co/cpf99/AMDs/tree/main)，或是[百度云网盘(提取码2024)](https://pan.baidu.com/s/1OEJL65F-fJil3ib8RaXKrA)获得AMDs完整代码及模型权重。    
+您可以通过[huggingface](https://huggingface.co/cpf99/AMDs/tree/main)，或是[百度云网盘(提取码2024)](https://pan.baidu.com/s/1OEJL65F-fJil3ib8RaXKrA)获得AMDs完整代码及模型权重。
 
 ## 效果演示
 https://github.com/cccpf/AMDs/assets/46877660/9da577b4-bc92-4e75-af12-3be6bb647acd
