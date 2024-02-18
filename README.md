@@ -9,6 +9,8 @@ AMDs是基于智能体框架的中文医疗问答系统，通过结合不同的�
 ## 效果演示
 https://github.com/cccpf/AMDs/assets/46877660/9da577b4-bc92-4e75-af12-3be6bb647acd
 
+https://github.com/cccpf/AMDs/assets/46877660/faa7f2b0-79bd-406f-9fb4-6d05197d4d18
+
 ## 部署方式 
 ### 1、下载[chatglm3](https://huggingface.co/THUDM/chatglm3-6b/tree/main)，创建文件夹./chatglm3,并将下载文件导入，该文件夹位置为项目文件同级。例如，./root/chatglm3与./root/AMDs
 
